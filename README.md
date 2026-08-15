@@ -1,6 +1,6 @@
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for Mohammad Shahim Sheesh" src="art/header-light.png">
+   <img alt="Logo for Mohammad Shahim Sheesh" src="art/header-dark.png">
 </picture
 # 💫 About Me:
 Hi, I'm Mahammad Shahim Sheesh 👋<br><br>Full Stack AI Developer focused on building practical AI solutions with Generative AI, RAG pipelines, LLMs, and Machine Learning.<br><br>🤖 GenAI | RAG | Agentic AI | LLMs<br>🐍 Python | Java | SQL | JavaScript | React<br>🔎 FAISS | Pinecone | MongoDB | MySQL<br>☁️ IBM Cloud | Azure | Docker | FastAPI | Flask<br><br>I enjoy turning ideas into end-to-end AI applications — from data processing and model development to deployment and production-style dashboards.<br><br><br>🚀 Always learning. Always building. Always experimenting with AI.<br>
