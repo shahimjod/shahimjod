@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=820&lines=Hey+there%2C+I'm+Mahammad+Shahim+Sheesh;AI+%26+Data+Science+Enthusiast;Generative+AI+%7C+RAG+%7C+Agentic+AI;Machine+Learning+%7C+Deep+Learning;Java+Full+Stack+Developer;Always+Learning%2C+Building+%26+Experimenting" alt="Typing introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=820&lines=Hey+there%2C+I'm+Mahammad+Shahim+Sheesh;AI+%26+Data+Science+Engineer;Generative+AI+%7C+RAG+%7C+Agentic+AI;Machine+Learning+%7C+Deep+Learning;Java+Full+Stack+Developer;Always+Learning%2C+Building+%26+Experimenting" alt="Typing introduction"/>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 <tr>
 <td width="65%" valign="top">
 
-<p>Hello! I'm <b>Mahammad Shahim Sheesh</b>, an <b>AI & Data Science</b> enthusiast who enjoys turning ideas into practical intelligent products. My focus is on <b>Generative AI, RAG pipelines, LLM applications, Machine Learning and Deep Learning</b>.</p>
+<p>Hello! I'm <b>Mahammad Shahim Sheesh</b>, an <b>AI & Data Science</b> Engineer who enjoys turning ideas into practical intelligent products. My focus is on <b>Generative AI, RAG pipelines, LLM applications, Machine Learning and Deep Learning</b>.</p>
 
 - 🤖 Building with <b>LangChain, LangGraph, Gemini, OpenAI APIs, RAG and agentic workflows</b>
 - 🐍 Working mainly with <b>Python</b>, while building applications with <b>Java, Spring and Spring Boot</b>
